@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://ashishingle29.github.io/csb-fjvbev/static/js/main.62bfe93a.chunk.js",
+    "main.js.map": "https://ashishingle29.github.io/csb-fjvbev/static/js/main.62bfe93a.chunk.js.map",
+    "runtime-main.js": "https://ashishingle29.github.io/csb-fjvbev/static/js/runtime-main.32682ab0.js",
+    "runtime-main.js.map": "https://ashishingle29.github.io/csb-fjvbev/static/js/runtime-main.32682ab0.js.map",
+    "static/js/2.100cdcb0.chunk.js": "https://ashishingle29.github.io/csb-fjvbev/static/js/2.100cdcb0.chunk.js",
+    "static/js/2.100cdcb0.chunk.js.map": "https://ashishingle29.github.io/csb-fjvbev/static/js/2.100cdcb0.chunk.js.map",
+    "index.html": "https://ashishingle29.github.io/csb-fjvbev/index.html",
+    "static/js/2.100cdcb0.chunk.js.LICENSE.txt": "https://ashishingle29.github.io/csb-fjvbev/static/js/2.100cdcb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32682ab0.js",
+    "static/js/2.100cdcb0.chunk.js",
+    "static/js/main.62bfe93a.chunk.js"
+  ]
+}
